@@ -1,0 +1,26 @@
+{
+  "name": "pet-adoption",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"src/**/*.{js,jsx}\"",
+    "lint": "eslint \"src/**/*.{js,jsx}\" --quiet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/primaulia/pet-adoption.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/primaulia/pet-adoption/issues"
+  },
+  "homepage": "https://github.com/primaulia/pet-adoption#readme",
+  "devDependencies": {
+    "eslint": "^7.17.0",
+    "eslint-config-prettier": "^7.1.0",
+    "prettier": "^2.2.1"
+  }
+}
